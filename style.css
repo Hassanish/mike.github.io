@@ -1,0 +1,38 @@
+ 			<style>
+			
+			body{
+			margin:10px;
+				   }
+			body{
+			background:rgb(230, 230, 230);
+			font-family:"Helvetica", sans-serif;
+			margin: 15px;
+					}
+			#sunshine{
+				margin: 25px;
+				width:70%;
+			}
+			.cool{ 
+			font-size:15px; 
+		}
+			#tooltip #tool{
+			visibility: hidden;
+			width: 70px;
+			background-color:black;
+			color: white;
+			text-align:center;
+			border-radius: 2px;
+			position: absolute;
+			position:left;
+			font-size:10px;
+					}
+			#tooltip:hover #tool{
+			visibility: visible;
+					}
+			#pic{
+			float:right;
+			border: 6px ridge grey;}
+		</style>
+
+	
+
